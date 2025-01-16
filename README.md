@@ -1,4 +1,4 @@
-# airline-reservation-system
+# Airline Reservation System
 
 - Tools:
    - Draw.io
